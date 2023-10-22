@@ -17,7 +17,7 @@ int main(int argc, char **argv) {
   scanf("%s", name);
 
   int year = 0;
-  printf("Enter the year in which you were born: ");
+  printf("Enter the year  in which you were born: ");
   scanf("%d", &year);
 
   int month = 0;
